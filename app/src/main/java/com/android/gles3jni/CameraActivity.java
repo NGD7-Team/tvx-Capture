@@ -6,8 +6,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.ford.openxc.webcam.R;
-import com.ford.openxc.webcam.webcam.WebcamPreview;
+import com.android.gles3jni.R;
+import com.android.gles3jni.WebcamPreview;
 
 public class CameraActivity extends Activity {
     private EditText mEtVideo;

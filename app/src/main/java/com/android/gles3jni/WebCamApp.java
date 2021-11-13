@@ -42,7 +42,7 @@ package com.android.gles3jni;
 
 import android.app.Application;
 
-import com.ford.openxc.webcam.BuildConfig;
+import com.android.gles3jni.BuildConfig;
 //import com.socks.library.KLog;
 
 public class WebCamApp extends Application {
