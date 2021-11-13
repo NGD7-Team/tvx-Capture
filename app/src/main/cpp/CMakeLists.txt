@@ -27,7 +27,7 @@ add_library(webcam SHARED
 	    util.c
 	    video_device.c
 	    webcam.c
-	    yuv.c
+	    yuv.c)
 
 # Include libraries needed for gles3jni lib
 target_link_libraries(webcam
