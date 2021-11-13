@@ -17,11 +17,11 @@ public class CameraActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        //setContentView(R.layout.activity_main);
 
-        mEtVideo = (EditText) findViewById(R.id.et_video);
-        mPreview = (WebcamPreview) findViewById(R.id.preview);
-        mButton = (Button) findViewById(R.id.bt_preview);
+       // mEtVideo = (EditText) findViewById(R.id.et_video);
+       // mPreview = (WebcamPreview) findViewById(R.id.preview);
+       // mButton = (Button) findViewById(R.id.bt_preview);
 
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
