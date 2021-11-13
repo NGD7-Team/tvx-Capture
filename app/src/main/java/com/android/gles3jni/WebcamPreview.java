@@ -1,4 +1,4 @@
-package com.ford.openxc.webcam.webcam;
+package com.android.gles3jni;
 
 import android.content.ComponentName;
 import android.content.Context;

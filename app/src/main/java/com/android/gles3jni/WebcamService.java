@@ -1,4 +1,4 @@
-package com.ford.openxc.webcam.webcam;
+package com.android.gles3jni;
 
 import android.app.Service;
 import android.content.Intent;

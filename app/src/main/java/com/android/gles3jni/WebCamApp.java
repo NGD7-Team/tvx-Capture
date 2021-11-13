@@ -1,4 +1,4 @@
-package com.ford.openxc.webcam.app;
+package com.android.gles3jni;
 /*
 ******************* Copyright (c) ***********************\
 **

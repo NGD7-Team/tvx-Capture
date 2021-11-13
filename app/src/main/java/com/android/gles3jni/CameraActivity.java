@@ -1,4 +1,4 @@
-package com.ford.openxc.webcam.activity;
+package com.android.gles3jni;
 
 import android.app.Activity;
 import android.os.Bundle;

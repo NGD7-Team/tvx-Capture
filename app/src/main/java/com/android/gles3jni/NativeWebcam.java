@@ -1,4 +1,4 @@
-package com.ford.openxc.webcam.webcam;
+package com.android.gles3jni;
 
 import android.graphics.Bitmap;
 import android.util.Log;
